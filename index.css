@@ -96,3 +96,11 @@ p {
 .card-bottom {
   padding: 2rem 2rem;
 }
+
+.todo-list i {
+  font-size: 1.5rem;
+}
+
+.todo-list i:hover {
+  cursor: pointer;
+}
